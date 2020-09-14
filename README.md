@@ -4,4 +4,4 @@
 
 <p> The link to see the Tableau file for this data visualization is https://public.tableau.com/profile/myat.min.thu#!/vizhome/2010StrikeRate_15997683215530/2010StrikeRate </p>
 
-<p> The Presentation Slide can be seen here https://docs.google.com/presentation/d/1u4TOSwnBMgXq3PMnPZkXtekZ8J5-M4y4BAzAFfI0ZMc/edit?usp=sharing </p>
+<p> The Presentation Slide can be seen here https://drive.google.com/file/d/11I5TFfzcuTG1Hz1ktkpFl_EPullZ8hFC/view?usp=sharing </p>
